@@ -1,0 +1,117 @@
+#EXTM3U 
+
+#EXTINF: -1,HBO
+http://iptvtree.net:8080/ace2524d/15a571c413/266811
+#EXTINF: -1,HBO Signature
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26597
+#EXTINF: -1,HBO Hits
+http://iptvtree.net:8080/ace2524d/15a571c413/196480
+#EXTINF: -1,HBO Family
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598
+
+#EXTINF: -1,Movies Action
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF: -1,Hits
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
+#EXTINF: -1,Hits Movies
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
+#EXTINF: -1,Movies
+http://89.187.175.143:80/3029/mpegts
+
+#EXTINF: -1,DAZN 1
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13863
+#EXTINF: -1,DAZN 2
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13864
+#EXTINF: -1,SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF: -1,SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
+#EXTINF: -1,BT Sports 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/109
+
+
+#EXTINF: -1,Bein Sports 1
+http://iptv.am000.tv:8000/live/add17/add17/575.ts
+#EXTINF: -1,Bein Sports 2
+http://iptv.am000.tv:8000/live/add17/add17/577.ts
+#EXTINF: -1,Sky Sports
+http://iptv.am000.tv:8000/live/add17/add17/443.ts
+#EXTINF:-1,PTV Sports
+https://www.youtube.com/watch?v=DXNQGv-1B-w
+#EXTINF: -1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF: -1,UFC
+http://189.91.128.146:4444/udp/227.10.20.172:1234
+
+
+#EXTINF: -1,Disney Channel
+http://185.59.223.102:8080/disney/index.m3u8
+#EXTINF: -1,Nickelodeon
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/38
+#EXTINF: -1,Aniplus (Denstv)
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF: -1,Zoo Moo
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/40
+#EXTINF: -1,Horee
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
+#EXTINF: -1,DC Kids
+https://www.youtube.com/watch?v=HdsPawGJhx4
+
+#EXTINF: -1,Edukasi TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/44
+
+#EXTINF: -1,IMC
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/133
+#EXTINF: -1,Sony One
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
+#EXTINF: -1,Rock Extreme
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
+#EXTINF: -1,Rock Entertainment
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
+#EXTINF: -1,TVN
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/69
+#EXTINF: -1,TVN Movies (Denstv)
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
+#EXTINF: -1,KPOP
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
+#EXTINF: -1,Tech Storm
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/81
+
+#EXTINF: -1,KIX
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1,KIX (Denstv)
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+#EXTINF: -1,AXN
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
+
+
+#EXTINF: -1,K+ (Denstv)
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+
+#EXTINF: -1,AFN
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
+
+
+#EXTINF: -1,Animal Planet
+http://iptvtree.net:8080/ace2524d/15a571c413/157532
+#EXTINF: -1,Discovery Channel
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
+#EXTINF: -1,NatGeo Wild
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
+#EXTINF:-1 ,Smithsonian Channels
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,CNBC
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/84
+#EXTINF:-1 ,CBS
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/85
+
+#EXTINF:-1 ,Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1 ,ABC News
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
+#EXTINF:-1 ,Euronews
+https://www.youtube.com/watch?v=ntmPIzlkcJk
