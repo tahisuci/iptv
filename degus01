@@ -1,13 +1,13 @@
-#EXTM3U 
+#EXTM3U
 
 #EXTINF: -1,HBO
-http://iptvtree.net:8080/ace2524d/15a571c413/266811
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 #EXTINF: -1,HBO Signature
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26597
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF: -1,HBO Hits
-http://iptvtree.net:8080/ace2524d/15a571c413/196480
+http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 #EXTINF: -1,HBO Family
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF: -1,Movies Action
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -44,8 +44,12 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
 #EXTINF: -1,Sky Sports
 http://iptv.am000.tv:8000/live/add17/add17/443.ts
-#EXTINF:-1,PTV Sports
-https://www.youtube.com/watch?v=DXNQGv-1B-w
+#EXTINF: -1,Euro Sports 1
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+#EXTINF: -1,Euro Sports 2
+http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
+#EXTINF: -1,MAV TV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF: -1,UFC
@@ -54,10 +58,14 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 
 #EXTINF: -1,Disney Channel
 http://185.59.223.102:8080/disney/index.m3u8
-#EXTINF:-1,tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012014/logo_disney_junior.png?itok=FRXjvCwI" group-title="LOKAL",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF: -1,Disney junior 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF: -1,Disney XD 
+http://89.187.175.143:80/3016/mpegts
 #EXTINF: -1,Nickelodeon
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/38
+#EXTINF: -1,Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="" group-title="LUAR",Big Buck Bunny
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8
 #EXTINF: -1,Aniplus (Denstv)
@@ -66,8 +74,20 @@ http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/40
 #EXTINF: -1,Horee
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
-#EXTINF: -1,DC Kids
-https://www.youtube.com/watch?v=HdsPawGJhx4
+#EXTINF: -1,Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF: -1,Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF: -1,Happy Kids Jr
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF: -1,Duck TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF: -1,Lego Channel 
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF: -1,KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #EXTINF: -1,Edukasi TV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/44
@@ -113,8 +133,12 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
 #EXTINF:-1 ,Smithsonian Channels
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" ,Love Nature
+#EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF: -1,Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF: -1,New K-ID
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
 #EXTINF:-1 ,CNBC
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/84
