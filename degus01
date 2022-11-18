@@ -129,8 +129,18 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
 http://iptvtree.net:8080/ace2524d/15a571c413/157532
 #EXTINF: -1,Discovery Channel
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
+#EXTINF:-1 ,Discovery Channel HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0 ,Discovery History (Documentary) (US) (English)
+http://top-iptv.zapto.org:8000/live/Aria/Aria/562.m3u8
 #EXTINF: -1,NatGeo Wild
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
+#EXTINF:-1,National Geographic
+http://157.119.56.249:2019/live/gratis/diemdiemaja/219.ts
+#EXTINF:-1,Nat Geo Wild
+http://157.119.56.249:2019/live/gratis/diemdiemaja/220.ts
+#EXTINF:-1,Nat Geo People
+http://157.119.56.249:2019/live/gratis/diemdiemaja/221.ts
 #EXTINF:-1 ,Smithsonian Channels
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Love Nature
@@ -144,3 +154,7 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/84
 #EXTINF:-1 ,CBS
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/85
+
+#EXTINF:-1,Thrill
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
