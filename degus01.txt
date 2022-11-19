@@ -112,18 +112,16 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
 #EXTINF: -1,Tech Storm
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/81
 
+#EXTINF:-1 tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg" group-title="JAPAN",Family Gekijo
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
 #EXTINF: -1,KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1,KIX (Denstv)
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF: -1,AXN
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
-
-
 #EXTINF: -1,K+ (Denstv)
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-
 #EXTINF: -1,AFN
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
 
