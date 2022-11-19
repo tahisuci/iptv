@@ -11,12 +11,12 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21ab
 
 #EXTINF: -1,Movies Action
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF: -1,Movies
+http://89.187.175.143:80/3029/mpegts
 #EXTINF: -1,Hits
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
 #EXTINF: -1,Hits Movies
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
-#EXTINF: -1,Movies
-http://89.187.175.143:80/3029/mpegts
 
 #EXTINF: -1,DAZN 1
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13863
