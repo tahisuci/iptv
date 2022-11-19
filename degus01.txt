@@ -126,7 +126,8 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF: -1,AFN
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
-
+#EXTINF:-1,9gag
+https://i.forfun.com/krvp6lza.mp4
 
 #EXTINF: -1,Animal Planet
 http://iptvtree.net:8080/ace2524d/15a571c413/157532
