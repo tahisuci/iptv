@@ -111,6 +111,8 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
 #EXTINF: -1,Tech Storm
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/81
+#EXTINF: -1,Waku Waku Japan
+https://dik.si/SEwaku?shareext.m3u8
 
 #EXTINF: -1,KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
