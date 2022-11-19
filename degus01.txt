@@ -135,12 +135,10 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:0 ,Discovery History (Documentary) (US) (English)
 http://top-iptv.zapto.org:8000/live/Aria/Aria/562.m3u8
-#EXTINF: -1,NatGeo Wild
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
 #EXTINF:-1,National Geographic
-http://157.119.56.249:2019/live/gratis/diemdiemaja/219.ts
+http://145.255.192.18:4022/udp/224.156.69.43:5000
 #EXTINF:-1,Nat Geo Wild
-http://157.119.56.249:2019/live/gratis/diemdiemaja/220.ts
+http://145.255.192.18:4022/udp/224.156.69.45:5000
 #EXTINF:-1,Nat Geo People
 http://157.119.56.249:2019/live/gratis/diemdiemaja/221.ts
 #EXTINF:-1,Nasa TV
