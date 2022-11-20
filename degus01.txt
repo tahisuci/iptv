@@ -10,7 +10,7 @@ http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=1
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF: -1,Movies Action
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+http://hpull.kktv8.com/livekk 9+tv/128600025/playlist.m3u8
 #EXTINF: -1,Movies
 http://89.187.175.143:80/3029/mpegts
 #EXTINF: -1,Hits
@@ -53,7 +53,7 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF: -1,Impact TV
 https://siloh.pluto.tv:443/lilo/production/ImpactWrestling/master.m3u8
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF: -1,Disney Channel
 http://185.59.223.102:8080/disney/index.m3u8
@@ -118,6 +118,8 @@ http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
 #EXTINF: -1,K+ (Denstv)
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF: -1,New K-ID
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 #EXTINF: -1,AFN
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
 #EXTINF:-1,MTV Yo!
@@ -125,20 +127,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1,MTV Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-#EXTINF: -1,Animal Planet
-http://iptvtree.net:8080/ace2524d/15a571c413/157532
-#EXTINF: -1,Discovery Channel
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
-#EXTINF:-1 ,Discovery Channel HD
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:0 ,Discovery History (Documentary) (US) (English)
-http://top-iptv.zapto.org:8000/live/Aria/Aria/562.m3u8
-#EXTINF:-1,National Geographic
-http://145.255.192.18:4022/udp/224.156.69.43:5000
-#EXTINF:-1,Nat Geo Wild
-http://145.255.192.18:4022/udp/224.156.69.45:5000
-#EXTINF:-1,Nat Geo People
-http://157.119.56.249:2019/live/gratis/diemdiemaja/221.ts
 #EXTINF:-1,Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ,Smithsonian Channels
@@ -147,8 +135,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1,Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF: -1,New K-ID
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
 #EXTINF:-1,Thrill
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
