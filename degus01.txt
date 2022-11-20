@@ -18,10 +18,6 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
 #EXTINF: -1,Hits Movies
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
 
-#EXTINF: -1,DAZN 1
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13863
-#EXTINF: -1,DAZN 2
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13864
 #EXTINF: -1,ESPN
 https://best.globalweb.ru.com/cdn/premium44/mono.m3u8
 #EXTINF: -1,SPOTV
@@ -154,78 +150,9 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF: -1,New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
-#EXTINF:-1 ,CNBC
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/84
-#EXTINF:-1 ,CBS
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/85
-
 #EXTINF:-1,Thrill
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1,599 Porn Videos
-https://videos.pornworms.com/media/videos/mp4/100.mp4
-#EXTINF:-1,Playboy TV
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/bw1500000/variant.m3u8?version=2
-#EXTINF:-1,Sex 18+
-mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,Sexstation
-http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u
-#EXTINF:-1.BRAZZERS TV +18
-http://83.139.104.112/Content/HLS/Live/Channel(BRAZZERS_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,PLAYBOY TV +18
-http://83.139.104.112/Content/HLS/Live/Channel(PLAYBOY_TV)/Stream(03)/index.m3u8
-#EXTINF:0, Frenchlover TV
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/569/index.m3u8
-#EXTINF:0, SCT HQ
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/566/index.m3u8
-#EXTINF:0, CENTOXCENTO TV
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/564/index.m3u8
-#EXTINF:0, exotica plus
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/562/index.m3u8
-#EXTINF:0, SATISFACTION HD
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/561/index.m3u8
-#EXTINF:-1, pink
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/567/index.m3u8
-#EXTINF:-1, Adult tv
-http://188.165.220.116:8081/live/z/chunks.m3u8
-#EXTINF:0, Интрига ТВ
-http://serv02.vintera.tv:1935/live/play/playlist.m3u8
-#EXTINF:0, Playboy TV
-http://37.228.91.166:8081/cdn/playboy/playlist.m3u8
-#EXTINF:0, Brazzers TV Europe
-http://37.228.91.166:8081/cdn/brozz/playlist.m3u8
-#EXTINF:0, Hustler
-http://tv1.sunduk.tv:8080/CH171_std/playlist.m3u8
-#EXTINF:0, Playboy
-http://tv1.sunduk.tv:8080/CH175_std/playlist.m3u8
-#EXTINF:0, Private
-http://tv1.sunduk.tv:8080/CH151_std/playlist.m3u8
-#EXTINF:0, Brazzers
-http://tv1.sunduk.tv:8080/CH152_std/playlist.m3u8
-#EXTINF:0, Русская ночь
-http://tv10.sunduk.tv:8080/CH163_std/playlist.m3u8
-#EXTINF:-1,Hustler
-http://cdn-07.sdn.si/hustler/hustler.m3u8
-#EXTINF:-1,EroXXX HD
-http://cdn-07.sdn.si/eroxxxhd/eroxxxhd.m3u8
-#EXTINF:-1,SuperOne
-http://cdn-07.sdn.si/superone/superone.m3u8
-#EXTINF:-1,Dorcel
-http://cdn-07.sdn.si/dorcel/dorcel.m3u8
-#EXTINF:-1,SCT
-http://cdn-07.sdn.si/sct/sct.m3u8
-#EXTINF:-1,Daring
-http://cdn-07.sdn.si/daring/daring.m3u8
-#EXTINF:-1,Babestation
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-#EXTINF:-1,Babestation Blue
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:-1,Babestation Unleashed
-http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
-#EXTINF:-1,Babestation Unleashed2
-http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
-#EXTINF:-1,Babestation Xtra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" status="online",Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
