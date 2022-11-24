@@ -13,6 +13,12 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21ab
 http://hpull.kktv8.com/livekk 9+tv/128600025/playlist.m3u8
 #EXTINF: -1,Movies
 http://89.187.175.143:80/3029/mpegts
+#EXTINF:-1 group-title="Film TV",WAU
+http://nn.geo.joj.sk/hls/wau-360.m3u8
+#EXTINF:-1 ,Smithsonian Channels
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF: -1,Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF: -1,ESPN
 https://best.globalweb.ru.com/cdn/premium44/mono.m3u8
@@ -98,14 +104,12 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 #EXTINF:-1,Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 group-title="Film TV",WAU
-http://nn.geo.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 ,Smithsonian Channels
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,National Geographic
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1,National Geographic Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF: -1,Fail Army
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:-1 group-title="Berita",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
