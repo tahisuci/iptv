@@ -19,6 +19,10 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF: -1,Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/warnertv.png" group-title="TVIndo [Movie]",WARNER TV
+https://playlist.nontonbola.my.id/tvindo/warnertv.mpd?key=20x04x22
 
 #EXTINF: -1,ESPN
 https://best.globalweb.ru.com/cdn/premium44/mono.m3u8
