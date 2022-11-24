@@ -13,10 +13,6 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21ab
 http://hpull.kktv8.com/livekk 9+tv/128600025/playlist.m3u8
 #EXTINF: -1,Movies
 http://89.187.175.143:80/3029/mpegts
-#EXTINF: -1,Hits
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
-#EXTINF: -1,Hits Movies
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
 
 #EXTINF: -1,ESPN
 https://best.globalweb.ru.com/cdn/premium44/mono.m3u8
@@ -24,8 +20,6 @@ https://best.globalweb.ru.com/cdn/premium44/mono.m3u8
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF: -1,SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
-#EXTINF: -1,BT Sports 2
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/109
 #EXTINF: -1,Fox Sports 1
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF: -1,Fox Sports 2
@@ -55,8 +49,6 @@ http://www.reloltv.com/s/CzQ
 #EXTINF: -1,Impact TV
 https://siloh.pluto.tv:443/lilo/production/ImpactWrestling/master.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",Cartoon Network
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF: -1,Disney Channel
@@ -73,10 +65,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8
 #EXTINF: -1,Aniplus (Denstv)
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
-#EXTINF: -1,Zoo Moo
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/40
-#EXTINF: -1,Horee
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
 #EXTINF: -1,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF: -1,Happy Kids
@@ -94,44 +82,15 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="International",Toon Max
 http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 
-#EXTINF: -1,Edukasi TV
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/44
-#EXTINF:-1 group-title="Indonesia TV",MyTV
-http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 #EXTINF:-1 group-title="Indonesia TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF: -1,IMC
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/133
-#EXTINF: -1,Sony One
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
-#EXTINF: -1,Rock Extreme
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
-#EXTINF: -1,Rock Entertainment
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
-#EXTINF: -1,TVN
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/69
-#EXTINF: -1,TVN Movies (Denstv)
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
-#EXTINF: -1,KPOP
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
-#EXTINF: -1,Tech Storm
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/81
-#EXTINF: -1,Waku Waku Japan
-https://dik.si/SEwaku?shareext.m3u8
-
-#EXTINF: -1,KIX
-https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1,KIX (Denstv)
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-#EXTINF: -1,AXN
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
 #EXTINF: -1,K+ (Denstv)
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF: -1,New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF: -1,AFN
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
 #EXTINF:-1,MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1,MTV Pop
