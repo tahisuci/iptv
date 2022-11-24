@@ -44,10 +44,14 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
 #EXTINF: -1,Sky Sports
 http://iptv.am000.tv:8000/live/add17/add17/443.ts
+#EXTINF:-1,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF: -1,Euro Sports 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF: -1,Euro Sports 2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
+#EXTINF:-1,GOLTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF: -1,MAV TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1,Red Bull TV
