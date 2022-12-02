@@ -20,8 +20,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF: -1,Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF: -1,ESPN
-https://best.globalweb.ru.com/cdn/premium44/mono.m3u8
 #EXTINF: -1,SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF: -1,SPOTV2
@@ -38,10 +36,6 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115809
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
 #EXTINF: -1,EPL 2
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
-#EXTINF: -1,Sky Sports
-http://iptv.am000.tv:8000/live/add17/add17/443.ts
-#EXTINF:-1,SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF: -1,Euro Sports 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF: -1,Euro Sports 2
@@ -59,8 +53,6 @@ http://www.reloltv.com/s/CzQ
 #EXTINF: -1,Impact TV
 https://siloh.pluto.tv:443/lilo/production/ImpactWrestling/master.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Asia (720p)
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF: -1,Disney Channel
@@ -148,10 +140,6 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
 http://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 1 (PC) (1080p) [Not 24/7]
-https://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 2 (PC) (1080p) [Not 24/7]
-https://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 tvg-id="Babestation24.de" tvg-logo="https://i.imgur.com/Tou64p1.png" group-title="XXX",Babestation24 (720p)
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets (1080p)
