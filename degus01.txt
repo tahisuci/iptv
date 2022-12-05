@@ -77,6 +77,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1,Happy Kids Jr
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF: -1,Mentari TV
+http://tv.zonanime.my.id/vidio/mentaritv.m3u8
 #EXTINF: -1,Duck TV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1,PBS Kids
