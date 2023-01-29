@@ -139,6 +139,34 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
 http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:1,RedTraffic TV Live Cams
+http://live.redtraffic.net/livecams.m3u8
+#EXTINF:1,RedTraffic TV Big Dick
+http://live.redtraffic.net/bigdick.m3u8
+#EXTINF:1,RedTraffic TV Big Tits
+http://live.redtraffic.net/bigtits.m3u8
+#EXTINF:1,RedTraffic TV Fetish
+http://live.redtraffic.net/fetish.m3u8
+#EXTINF:1,RedTraffic TV Big Ass
+http://live.redtraffic.net/bigass.m3u8
+#EXTINF:1,RedTraffic TV Latina
+http://live.redtraffic.net/latina.m3u8
+#EXTINF:1,RedTraffic TV POV
+http://live.redtraffic.net/pov.m3u8
+#EXTINF:1,RedTraffic TV Blowjob
+http://live.redtraffic.net/blowjob.m3u8
+#EXTINF:1,RedTraffic TV Hardcore
+http://live.redtraffic.net/hardcore.m3u8
+#EXTINF:1,RedTraffic TV Russian
+http://live.redtraffic.net/russian.m3u8
+#EXTINF:1,RedTraffic TV Rough
+http://live.redtraffic.net/rough.m3u8
+#EXTINF:1,RedTraffic TV Compilation
+http://live.redtraffic.net/compilation.m3u8
+#EXTINF:1,RedTraffic TV Brunette
+http://live.redtraffic.net/brunette.m3u8
+#EXTINF:1,RedTraffic TV Blonde
+http://live.redtraffic.net/blonde.m3u8
 
 #EXTINF:-1 tvg-id="Babestation24.de" tvg-logo="https://i.imgur.com/Tou64p1.png" group-title="XXX",Babestation24 (720p)
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
@@ -152,46 +180,3 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV México (720p) [Not 24/7]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-
-#EXTINF:1,RedTraffic TV Live Cams
-http://live.redtraffic.net/livecams.m3u8
-#EXTINF:1,RedTraffic TV MILF
-http://live.redtraffic.net/milf.m3u8
-#EXTINF:1,RedTraffic TV Big Dick
-http://live.redtraffic.net/bigdick.m3u8
-#EXTINF:1,RedTraffic TV Big Tits
-http://live.redtraffic.net/bigtits.m3u8
-#EXTINF:1,RedTraffic TV Fetish
-http://live.redtraffic.net/fetish.m3u8
-#EXTINF:1,RedTraffic TV Pornstar
-http://live.redtraffic.net/pornstar.m3u8
-#EXTINF:1,RedTraffic TV Big Ass
-http://live.redtraffic.net/bigass.m3u8
-#EXTINF:1,RedTraffic TV Interracial
-http://live.redtraffic.net/interracial.m3u8
-#EXTINF:1,RedTraffic TV Latina
-http://live.redtraffic.net/latina.m3u8
-#EXTINF:1,RedTraffic TV POV
-http://live.redtraffic.net/pov.m3u8
-#EXTINF:1,RedTraffic TV Blowjob
-http://live.redtraffic.net/blowjob.m3u8
-#EXTINF:1,RedTraffic TV Teen
-http://live.redtraffic.net/teen.m3u8
-#EXTINF:1,RedTraffic TV Hardcore
-http://live.redtraffic.net/hardcore.m3u8
-#EXTINF:1,RedTraffic TV Cuckold
-http://live.redtraffic.net/cuckold.m3u8
-#EXTINF:1,RedTraffic TV Threesome
-http://live.redtraffic.net/threesome.m3u8
-#EXTINF:1,RedTraffic TV Russian
-http://live.redtraffic.net/russian.m3u8
-#EXTINF:1,RedTraffic TV Rough
-http://live.redtraffic.net/rough.m3u8
-#EXTINF:1,RedTraffic TV Gangbang
-http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:1,RedTraffic TV Compilation
-http://live.redtraffic.net/compilation.m3u8
-#EXTINF:1,RedTraffic TV Brunette
-http://live.redtraffic.net/brunette.m3u8
-#EXTINF:1,RedTraffic TV Blonde
-http://live.redtraffic.net/blonde.m3u8
