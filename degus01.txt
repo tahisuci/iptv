@@ -9,7 +9,7 @@ http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=1
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Family",HBO Family Asia
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21abab0a5912afb0ebc01db111e59f
 
-#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Undefined",Dhamma TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Undefined",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF: -1,Movies Action
 http://hpull.kktv8.com/livekk 9+tv/128600025/playlist.m3u8
@@ -69,7 +69,7 @@ http://89.187.175.143:80/3016/mpegts
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF: -1,Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="Tooniverse.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tooniverse_logo.png" group-title="Animation;Kids",Tooniverse (540p)
+#EXTINF:-1 tvg-id="Tooniverse.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tooniverse_logo.png" group-title="Animation;Kids",Tooniverse
 http://mytv.dothome.co.kr/ch/catv/225.php
 #EXTINF:-1 tvg-logo="" group-title="LUAR",Big Buck Bunny
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8
@@ -116,18 +116,18 @@ http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&ts
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History East (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History East
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Documentary",Pluto TV HISTORY (240p)
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Documentary",Pluto TV HISTORY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
-#EXTINF:-1 tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="Documentary",Real Stories (720p)
+#EXTINF:-1 tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="Documentary",Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Berita",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Berita",CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Undefined",RAI Italia Asia (576p)
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Undefined",RAI Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",Thrill 1
@@ -137,21 +137,21 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld
 http://210.210.155.35/dr9445/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Interracial (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Teen (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:1,RedTraffic TV Live Cams
 http://live.redtraffic.net/livecams.m3u8
@@ -182,15 +182,15 @@ http://live.redtraffic.net/brunette.m3u8
 #EXTINF:1,RedTraffic TV Blonde
 http://live.redtraffic.net/blonde.m3u8
 
-#EXTINF:-1 tvg-id="Babestation24.de" tvg-logo="https://i.imgur.com/Tou64p1.png" group-title="XXX",Babestation24 (720p)
+#EXTINF:-1 tvg-id="Babestation24.de" tvg-logo="https://i.imgur.com/Tou64p1.png" group-title="XXX",Babestation24
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets (1080p)
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV (720p)
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/BEx0Ek1.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/BEx0Ek1.png" group-title="XXX",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="XXX",Miami TV Latino (1080p)
+#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="XXX",Miami TV Latino
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV México (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
