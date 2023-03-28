@@ -15,8 +15,6 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 http://hpull.kktv8.com/livekk 9+tv/128600025/playlist.m3u8
 #EXTINF: -1,Movies
 http://89.187.175.143:80/3029/mpegts
-#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Undefined",Zee Bioskop (360p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 group-title="Film TV",WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
 #EXTINF:-1 ,Smithsonian Channels
