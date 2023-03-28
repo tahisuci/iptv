@@ -59,6 +59,8 @@ https://siloh.pluto.tv:443/lilo/production/ImpactWrestling/master.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Asia
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF: -1,Disney Channel
 http://185.59.223.102:8080/disney/index.m3u8
 #EXTINF: -1,Disney junior 
@@ -94,6 +96,20 @@ http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 group-title="Indonesia TV",MyTV
+http://210.210.155.35/qwr9ew/s/s46/01.m3u8
+#EXTINF:-1 group-title="Berita",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="Indonesia TV",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia TV",JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
+#EXTINF:-1 group-title="Indonesia TV",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="Indonesia TV",TEGAR TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah",PAL TV
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Undefined",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Undefined",Duta TV
@@ -111,6 +127,22 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV
 http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+#EXTINF:-1 group-title="Indonesia TV",Life Style
+http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Lifestyle
+http://45.126.83.51/uq2663/h/h28/index2.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Knowledge
+http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Showbiz 1
+http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Showbiz 2
+http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Play
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Live Streaming 1
+http://210.210.155.35/x6bnqe/s/s100/live.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Live Streaming 2
+http://210.210.155.35/uq2663/h/h998/live.m3u8
 
 #EXTINF:-1,Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -136,6 +168,8 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld
 http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Sinema Indonesia
+http://45.126.83.51/uq2663/h/h155/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
