@@ -6,8 +6,8 @@ http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=1839
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF: -1,HBO Hits
 http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-#EXTINF: -1,HBO Family
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Family",HBO Family Asia
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Undefined",Dhamma TV (720p) [Not 24/7]
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
@@ -57,7 +57,7 @@ https://siloh.pluto.tv:443/lilo/production/ImpactWrestling/master.m3u8
 
 #EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Asia (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Asia
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF: -1,Disney Channel
 http://185.59.223.102:8080/disney/index.m3u8
@@ -96,6 +96,8 @@ http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Undefined",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Undefined",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF: -1,KIX (Denstv)
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
@@ -107,6 +109,8 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1,MTV Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (民視)
+http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 
 #EXTINF:-1,Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -123,11 +127,15 @@ https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Berita",CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Undefined",RAI Italia Asia (576p)
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",Thrill 1
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Thrill 2
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld
+http://210.210.155.35/dr9445/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian (720p)
 http://cdn.adultiptv.net/asian.m3u8
