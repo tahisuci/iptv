@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1,HBO
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 #EXTINF: -1,HBO Signature
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF: -1,HBO Hits
