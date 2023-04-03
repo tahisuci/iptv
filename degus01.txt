@@ -71,6 +71,8 @@ http://89.187.175.143:80/3016/mpegts
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF: -1,Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF: -1,ABC Spark
+http://stream-7b694ce7e.nmbs.top/m3u/Canada/3da7947a18.m3u8
 #EXTINF:-1 tvg-id="Tooniverse.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tooniverse_logo.png" group-title="Animation;Kids",Tooniverse
 http://mytv.dothome.co.kr/ch/catv/225.php
 #EXTINF:-1 tvg-logo="" group-title="LUAR",Big Buck Bunny
