@@ -62,9 +62,9 @@ http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF: -1,Disney Channel
-http://185.59.223.102:8080/disney/index.m3u8
+http://rv.therevenge.co:80/live/242424/242424/81029.m3u8
 #EXTINF: -1,Disney junior 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+http://rv.therevenge.co:80/565656/565656/81030
 #EXTINF: -1,Disney XD 
 http://89.187.175.143:80/3016/mpegts
 #EXTINF: -1,Nickelodeon
