@@ -32,6 +32,10 @@ https://api.vpnmate.com/play/?vlc=1&channel=1018354&token=Bdf4vqpoh8_R:ODFiMDEyN
 https://api.vpnmate.com/play/?vlc=1&channel=204614&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States;Movies",HBO2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Unsorted",HBO 2 (Public-Movie Channels) (US) (English)
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Unsorted",HBO 2 (Public-Plex-Share) (US) (English)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Thrill 1
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Thrill 2
@@ -234,3 +238,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 http://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",AST TV 2
 https://www.ast.tv/stream/2/normal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",Jasmin TV (Opt-2)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",Jasmin TV (Opt-4)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
