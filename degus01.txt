@@ -57,12 +57,8 @@ https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #EXTINF: -1,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF: -1,Happy Kids
-https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1,Happy Kids Jr
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF: -1,Duck TV
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF: -1,Lego Channel 
@@ -99,12 +95,12 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1,MTV Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="Indonesia TV",Life Style
-http://210.210.155.66/h/h28/01.m3u8
-#EXTINF:-1 group-title="Indonesia TV",Lifestyle
-http://45.126.83.51/uq2663/h/h28/index2.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Knowledge
 http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Lifestyle 1
+http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Lifestyle 2
+http://45.126.83.51/uq2663/h/h28/index2.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Showbiz 1
 http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Showbiz 2
