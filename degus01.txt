@@ -173,11 +173,3 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",Jasmin TV (Opt-2)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",Jasmin TV (Opt-4)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
