@@ -104,18 +104,8 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-#EXTINF:-1 group-title="Indonesia TV",MyTV
-http://210.210.155.35/qwr9ew/s/s46/01.m3u8
-#EXTINF:-1 group-title="Berita",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 group-title="Indonesia TV",MGS TV
-http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia TV",JITV
-http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
 #EXTINF:-1 group-title="Indonesia TV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="Indonesia TV",TEGAR TV
-http://wms.klikhost.com/tegartv/live/playlist.m3u8
 #EXTINF:-1 group-title="TV Daerah",PAL TV
 http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Undefined",TATV
