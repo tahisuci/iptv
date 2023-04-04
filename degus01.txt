@@ -28,55 +28,28 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF: -1,Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF: -1,SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF: -1,SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
-#EXTINF: -1,Fox Sports 1
-http://89.187.175.143:80/3056/index.m3u8
-#EXTINF: -1,Fox Sports 2
-http://89.187.175.143:80/3028/index.m3u8
-#EXTINF: -1,Bein Sports 1
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115807
-#EXTINF: -1,Bein Sports 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115809
-#EXTINF: -1,EPL 1
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
-#EXTINF: -1,EPL 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
-#EXTINF: -1,Euro Sports 1
-http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-#EXTINF: -1,Euro Sports 2
-http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
-#EXTINF:-1,GOLTV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF: -1,MAV TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF: -1,UFC
-http://189.91.128.146:4444/udp/227.10.20.172:1234
-#EXTINF: -1,MMA TV
-http://www.reloltv.com/s/CzQ
-#EXTINF: -1,Impact TV
-https://siloh.pluto.tv:443/lilo/production/ImpactWrestling/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ztI8rh.jpg" group-title="SPORTS",Top Fight (USA)
+http://203.154.243.32:8088/live/topfight/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPTTAqQ.png" group-title="USA",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Asia
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 group-title="Channel TV Premium",Cartoon Network
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF: -1,Disney Channel
-http://rv.therevenge.co:80/live/242424/242424/81029.m3u8
-#EXTINF: -1,Disney junior 
-http://rv.therevenge.co:80/565656/565656/81030
-#EXTINF: -1,Disney XD 
-http://89.187.175.143:80/3016/mpegts
-#EXTINF: -1,Nickelodeon
-https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="KIDS",Cartoon Network (USA)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney XD
+https://api.vpnmate.com/play/?vlc=1&channel=205901&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Nickelodeon
+https://api.vpnmate.com/play/?vlc=1&channel=200560&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF: -1,Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",NickMusic
+https://api.vpnmate.com/play/?vlc=1&channel=3005902&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Nicktoons
 #EXTINF: -1,ABC Spark
 http://stream-7b694ce7e.nmbs.top/m3u/Canada/3da7947a18.m3u8
 #EXTINF:-1 tvg-id="Tooniverse.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tooniverse_logo.png" group-title="Animation;Kids",Tooniverse
@@ -118,6 +91,10 @@ http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Undefined",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="USA",30A TV
+http://30a-tv.com/my999.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="ITALY",ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF: -1,KIX (Denstv)
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
@@ -129,6 +106,8 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1,MTV Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",30A Music
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV
 http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 #EXTINF:-1 group-title="Indonesia TV",Life Style
@@ -158,8 +137,12 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
 #EXTINF:-1 tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="Documentary",Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157532?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2000px-2018_Animal_Planet_logo.svg.png" group-title="Unsorted;Education",Animal Planet 2
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Unsorted;Education",Animal Planet 3
+http://161.0.157.5/PLTV/88888888/224/3221226253/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Russia",National Geo Wild
+http://st5.allplay.uz/iptv/42/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Berita",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
@@ -225,3 +208,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",AST TV 1
+http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",AST TV 2
+https://www.ast.tv/stream/2/normal.m3u8
