@@ -32,10 +32,6 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="USA",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",Thrill 1
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
@@ -52,10 +48,6 @@ http://210.210.155.35/dr9445/h/h04/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF: -1,Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="Tooniverse.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tooniverse_logo.png" group-title="Animation;Kids",Tooniverse
-http://mytv.dothome.co.kr/ch/catv/225.php
-#EXTINF:-1 tvg-logo="" group-title="LUAR",Big Buck Bunny
-https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8
 #EXTINF: -1,Aniplus (Denstv)
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 #EXTINF: -1,Biznet Kids
@@ -70,8 +62,6 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Baby TV
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157605?checkedby:iptvcat.net
-#EXTINF:-1 group-title="International",Toon Max
-http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-id="KartoonCircus.us" tvg-logo="https://i.imgur.com/K2TH3k9.png" group-title="Kids",Kartoon Circus
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Education;Kids",NCM Educational & Kids Channel
