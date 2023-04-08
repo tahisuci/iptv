@@ -28,8 +28,8 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Undefined",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF: 1,ESPN U
-https://list.iptvcat.com/my_list/s/cc6b0d49247631ec6fc20d5c5755ff63.m3u8
+#EXTINF: -1,Bein Sport
+https://list.iptvcat.com/my_list/s/ad79b1ea3df81c3201f041218253eea0.m3u8
 #EXTINF: -1,MAV TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1,Red Bull TV
