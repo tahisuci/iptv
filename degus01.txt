@@ -48,6 +48,8 @@ http://210.210.155.35/dr9445/h/h04/index.m3u8
 
 #EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+https://list.iptvcat.com/my_list/s/b212cf541605cd910933d52cce894c78.m3u8
 #EXTINF: -1,Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF: -1,Aniplus (Denstv)
