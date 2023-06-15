@@ -8,6 +8,8 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Undefined",RAI Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entertainment",Alegre TV
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="UsWeeklyTV.us" tvg-logo="https://i.imgur.com/IMsk88B.png" group-title="Entertainment;News",US Weekly TV
 https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Film TV",WAU
@@ -55,6 +57,10 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="PulaTV.do" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="Entertainment",Pula TV
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
@@ -122,6 +128,8 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="TVFacesPeru.pe" tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="Entertainment",Tvfaces Peru
 https://tvdatta.com:3211/stream/play.m3u8
+#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="https://i.imgur.com/lEIFDwo.png" group-title="Entertainment",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Knowledge
 http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Lifestyle 1
