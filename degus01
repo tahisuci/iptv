@@ -40,6 +40,8 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1 tvg-id="Onda15TV.es" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="Music;News",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
@@ -92,6 +94,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="NextHD.py" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Movies;Music",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1,Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -162,6 +166,20 @@ https://tvdatta.com:3211/stream/play.m3u8
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="RockTV.mk" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="StarFolkTV.mk" tvg-logo="https://i.imgur.com/fM7FUgk.png" group-title="Music",Star Folk
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 tvg-id="StarPlusTelevizija.mk" tvg-logo="https://i.imgur.com/01yz22a.png" group-title="Music",Star Plus Music
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-id="NG.gr" tvg-logo="https://i.imgur.com/IcgbJKF.png" group-title="Music",NG
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Music",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PMC.ae" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Music",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Knowledge
 http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Lifestyle 1
