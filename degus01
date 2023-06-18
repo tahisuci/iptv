@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF: -1, HBO 
-#https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTVNJQS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY2OTEzNjY4fX19XX0_&Signature=sEB-DF-Rufdre2eYoCQRCBbE7TT5umF69ZRwGArct5j1ln-q-rNhCHEtX2AQxt~Wr7PqyztcST7WEcE9ZHGrALechXfVM28Fi4ElHZ80yw6ScqvwK4sZWLwszuvO4HCBzG4mjqC1jcgpdHO3p69IsyQ2cqvIRgYIMn-doWY8kxAuwW4yXjLa3HBeu8uQvQ8SKZWuRtlg5kAfTaRvtLSUuFPtO6I2cMsrbOlmH0~V2az72xvgh0aTXoozmCbGBJrQ7VaRZjONQOnBZqOLee0cVJra0Em2GEzw~~Qlj-ok23QRRNirVbQDtE6ZTmGZzJ~~3u3nnIIeTXlEpKzUk0u1VA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF: -1, HBO Family
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF: -1, HBO Signature
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF: -1, HBO Hits
-http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 #EXTINF:-1 group-title="Berita",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Berita",CNBC Indonesia
@@ -47,26 +38,6 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="Onda15TV.es" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="Music;News",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF: -1, UFC
-http://189.91.128.146:4444/udp/227.10.20.172:1234
-#EXTINF: -1, SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF: -1, SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
-#EXTINF: -1,Fox Sports 1
-http://89.187.175.143:80/3056/index.m3u8
-#EXTINF: -1,Fox Sports 2
-http://89.187.175.143:80/3028/index.m3u8
-#EXTINF: -1,EPL 1
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
-#EXTINF: -1,EPL 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
-#EXTINF: -1,MAV TV
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1,Euro Sports 1
-http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-#EXTINF: -1,Euro Sports 2
-http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
@@ -84,10 +55,6 @@ https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF: -1,Movies Action 
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF: -1,Movies 
-http://89.187.175.143:80/3029/mpegts
 
 #EXTINF:-1,Cartoon Network Brasil
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
@@ -161,7 +128,7 @@ https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.ar" tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="Music",Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 tvg-id="GORTV.nl" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="Music",GO-RTV
+#EXTINF:-1 tvg-id="GORTV.nl" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="Music",GO TV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="Hits360TV.do" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="Music",Hits 360 TV
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
@@ -264,8 +231,6 @@ http://live.redtraffic.net/compilation.m3u8
 http://live.redtraffic.net/brunette.m3u8
 #EXTINF:1,RedTraffic TV Blonde
 http://live.redtraffic.net/blonde.m3u8
-#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX",MyCamTV Anal
-http://live.mycamtv.com/anal.m3u8
 #EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="XXX",MyCamTV Asian
 http://live.mycamtv.com/asian.m3u8
 #EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Ass
