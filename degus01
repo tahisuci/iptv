@@ -118,12 +118,10 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 group-title="International",Phoenix
 http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
 
-#EXTINF: -1,KIX (Denstv)
+#EXTINF: -1,KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-#EXTINF: -1,K+ (Denstv)
+#EXTINF: -1,K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="Channel TV Premium",K+ 1
-http://210.210.155.66/h/h08/index2.m3u8
 #EXTINF:-1 tvg-id="WildNOut.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" group-title="Series",Pluto TV Wild 'N Out
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Entertainment;Series",tvN Asia (Indonesian Subtitle)
