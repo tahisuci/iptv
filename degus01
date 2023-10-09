@@ -256,25 +256,3 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV South East Asia
-https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
-#EXTINF:0 tvg-id="HBOSingapore.sg" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="GENERAL MOVIES",HBO Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://stream-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-#EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://i.imgur.com/YNNLQG0.png" group-title="GENERAL MOVIES",HBO Family Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://stream-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://i.imgur.com/uar4bNC.png" group-title="GENERAL MOVIES",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://stream-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-
-#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://i.imgur.com/iubUI1y.png" group-title="GENERAL MOVIES",HBO Signature Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://stream-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
