@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV",RCTI
-https://1m-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1692701187-0d3ecc0f3cd5321c1d275b81c58e3da1-0-437ef47b742a245cbf8607c6131f4b19
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 group-title="Berita",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Berita",CNBC Indonesia
