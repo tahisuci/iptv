@@ -24,12 +24,16 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="UsWeeklyTV.us" tvg-logo="https://i.imgur.com/IMsk88B.png" group-title="Entertainment;News",US Weekly TV
 https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529247_ico.png?ts=1654810239" group-title="IPTV",News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" group-title="Japan",TV Tokyo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Fik3Nm9.png" tvg-id="GunmaTV.jp" group-title="Japan",Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510438_ico.png?ts=1654805457" group-title="IPTV",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ,Smithsonian Channels
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
