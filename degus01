@@ -68,6 +68,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510438_ico.png?ts=1654805457" group-title="IPTV",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entertainment",WTV Canal 20
@@ -77,6 +79,8 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Entertainment",Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="Indonesia",TVRI Sport
 #KODIPROP:inputstream=inputstream.adaptive
@@ -92,16 +96,6 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="VOD Movies (EN)",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStreams
-https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Film TV",WAU
-http://nn.geo.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 tvg-id="PulaTV.do" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="Entertainment",Pula TV
-https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 group-title="International",Xing Kong
-http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
 
 #EXTINF: -1,Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -133,9 +127,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="TokuSHOUTsu.us" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Series",Pluto TV TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c3f8f12a93c2d61b9990a4e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=848&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Entertainment",Xplore
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 #EXTINF:-1 group-title=Music",ONE
 http://rtmp.one.by:1300
