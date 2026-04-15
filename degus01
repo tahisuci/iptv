@@ -260,17 +260,17 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:0 group-title="ТНТ" tvg-id="",ТНТ Exclusive TV
 http://89.28.25.122/hls/tnt_md.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Pervyy_kanal" tvg-logo="PervyyKanal" group-title="The federal channels," Channel
+#EXTINF:-1 tvg-id="1" tvg-name="Pervyy_kanal" tvg-logo="PervyyKanal" group-title="The federal channels", Channel
 udp://@224.2.0.1:6000
-#EXTINF:-1 tvg-name="Rossiya_1" tvg-logo="Russia1" Russia-1
+#EXTINF:-1 tvg-name="Rossiya_1" tvg-logo="Russia1", Russia-1
 udp://@224.2.0.6:6000
-#EXTINF:-1 tvg-name="Rossiya_Kultura" tvg-logo="RossiyaK" to Russia
+#EXTINF:-1 tvg-name="Rossiya_Kultura" tvg-logo="RossiyaK", to Russia
 udp://@224.1.1.120:6000
 #EXTINF:-1 tvg-name="NTV" tvg-logo="NTV", NTV
 udp://@224.2.0.5:6000
-#EXTINF:-1 tvg-name="Pyatyy_Kanal" tvg-logo="PyatyyKanal" Channel Five
+#EXTINF:-1 tvg-name="Pyatyy_Kanal" tvg-logo="PyatyyKanal", Channel Five
 udp://@224.1.1.53:6000
-#EXTINF:-1 tvg-name="Rossiya_2_ (Sport)" tvg-logo="Russia2" Russia-2
+#EXTINF:-1 tvg-name="Rossiya_2_ (Sport)" tvg-logo="Russia2", Russia-2
 udp://@224.2.0.10:6000
 #EXTINF:-1 tvg-name="MCM_Top" tvg-logo="MCMTop" group-title="Music and Entertainment", MCM Top
 udp://@224.1.1.30:6000
