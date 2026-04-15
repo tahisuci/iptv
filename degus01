@@ -41,8 +41,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr0DX12.jpeg" group-title="INDONESIA", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2018496991_b384000_sleng.m3u8
-#EXTINF:-1 group-title="Berita",Berita Satu World
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 group-title="Indonesia TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 group-title="Indonesia TV",TVKU
@@ -56,10 +54,6 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="USA",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="USA",Reuters TV
-https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="International",TRT WORLD
 http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529247_ico.png?ts=1654810239" group-title="IPTV",News Asia
