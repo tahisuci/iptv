@@ -337,4 +337,5 @@ https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/BEx0Ek1.png" group-title="XXX",Coba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://streaming.indihometv.com/dass/130/chinesedrama/manifest_wuseetv.mpd?enc=_ug7PJ4vMuG9P19uz7fftQ&exp=1776235833&encp=6zo9u_d83pxCfm04l1aWxw&expp=1776246333
