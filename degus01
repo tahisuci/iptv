@@ -128,6 +128,9 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Entertainment",Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000848_ico.png?ts=1655550876" group-title="IPTV",National Geographic Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="Indonesia",TVRI Sport
 #KODIPROP:inputstream=inputstream.adaptive
